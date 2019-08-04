@@ -657,6 +657,7 @@ footer {
 .project-info {
     position: absolute;
     top: 50%;
+    width: calc(100% - 300px);
     transform: translateY(-50%);
     margin-left: 300px;
     padding: 15px;
