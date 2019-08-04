@@ -1,4 +1,4 @@
-/*!
+u/*!
     Title: Dev Portfolio Template
     Version: 1.2.1
     Last Change: 08/28/2017
@@ -964,6 +964,7 @@ footer {
 
     .project-info {
         position: relative;
+        width: calc(100% - 300px);
         margin: 0;
         padding: 30px 15px;
         top: auto;
